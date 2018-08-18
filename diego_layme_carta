@@ -1,0 +1,25 @@
+\documentclass{letter}
+
+% Paquetes de idioma
+\usepackage[spanish]{babel} % silabación + palabras clave
+\usepackage[utf8]{inputenc} % acentos
+\usepackage[T1]{fontenc} % codificación
+
+\signature{Ondiz}
+
+\begin{document}
+
+\begin{letter}{Olentzeroren Baserria \\ Landetxo Goikoa \\ Mungia \\ Bizkaia}
+
+\opening{Querido Olentzero,}
+
+Este año (como siempre) he sido muy buena, así que como se me acaba el contrato en un par de semanas, me gustaría que me trajeras un trabajo no demasiado tradicional de regalo navideño.
+
+\closing{Feliz Navidad,}
+
+\ps
+PD. Da saludos a Astotxo de mi parte
+
+\end{letter}
+
+\end{document}
